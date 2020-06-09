@@ -6,7 +6,7 @@ Taking inspiration from a [Netflix recommendation system](https://www.kaggle.com
 
 **Data Source**
 
-AZ Lyrics Data: https://www.kaggle.com/albertsuarez/azlyrics?
+AZ Lyrics data can be found here: https://www.kaggle.com/albertsuarez/azlyrics, the scraping code can be found here: https://github.com/AlbertSuarez/azlyrics-scraper
 
 **Files in Repo**
 
